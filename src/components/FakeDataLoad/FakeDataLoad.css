@@ -1,0 +1,53 @@
+.cards-border{
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    margin: 20px;
+    height: 509px;
+    width: 300px;
+    position: relative;
+    
+}
+.text-size1{
+    font-size: 13px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+.text-size1{
+    font-size: 13px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.text-size2{
+    font-size: 12px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.cards-border img{
+    height: 286px;
+    width: 286px;
+    margin-left: 7px;
+    margin-top: 7px;
+    margin-right: 7px;
+    margin-bottom: 0px;
+    border: 1 solid #95A0A7 ;
+    border-radius: 8px;
+
+}
+.add-btn{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 300px;
+    height: 48px;
+    border-radius: 0px 0px 8px 8px;
+border: 1px solid #95A0A7;
+background: #FFE0B3;
+position: absolute;
+bottom: 0;
+}
+.add-btn:hover{
+    background-color: orange;
+}

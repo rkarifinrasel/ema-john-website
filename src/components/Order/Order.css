@@ -1,0 +1,19 @@
+.order-containeer{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+  
+}
+.products-containeer{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+     margin: 50px;
+}
+.btn-review{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    border-radius: 8px;
+background: #F90;
+}

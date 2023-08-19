@@ -1,0 +1,25 @@
+.cart{
+    background-color: rgba(255, 153, 0, 0.30);
+    /* padding-left:10px; */
+    margin: 0px;
+    padding: 0px;
+    position: sticky;
+    top: 0;
+}
+.text{
+    font-size: 3em;
+    font: bold;
+    justify-items: center;
+    align-items: center;
+    display: flex;
+}
+.text-position{
+    padding-left: 10px;
+}
+.clear-chart{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    background-color: red;
+}

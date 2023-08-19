@@ -1,0 +1,22 @@
+.order-containeer{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+   
+}
+.shop-containeer{
+    background-color: rgba(255, 153, 0, 0.30);
+    /* padding-left: 5px; */
+    /* margin-left: 5px; */
+    position: sticky;
+    top: 0;
+}
+.btn-proceed{
+    border-radius: 8px;
+background: #F90;
+display: flex;
+justify-content: space-between;
+align-items: center;
+width: 90%;
+margin-top: 20px;
+
+}

@@ -1,0 +1,43 @@
+.image{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+}
+.text{
+font-size: 1em;
+font-weight: bold;
+}
+.products-review p{
+margin: 0 15px;
+}
+.carts{
+    background-color: grey;
+    border: 2px solid blue;
+    border-radius: 10px;
+   margin-top: 50px;
+   margin-left: 30px;
+   margin-right: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.products{
+    margin-bottom: 10px;
+    display: inline flex;
+}
+.btn{
+    width: 55px;
+    height: 55px;
+    background-color: #EB5757;
+    flex-shrink: 0;
+   border-radius: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+color: red;
+
+}
+.d-color{
+   
+}
